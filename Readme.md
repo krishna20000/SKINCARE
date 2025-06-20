@@ -40,3 +40,32 @@ A responsive, animated landing page built using **React + Tailwind CSS + GSAP**,
 
 ## 📂 Folder Structure
 
+skincare-landing-page/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ └── styles/
+├── package.json
+├── tailwind.config.js
+└── README.md
+
+
+---
+
+## 📜 How to Run Locally
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/your-username/skincare-landing-page.git
+
+# 2. Navigate into the directory
+cd skincare-landing-page
+
+# 3. Install dependencies
+npm install
+
+# 4. Run the dev server
+npm run dev
+
+
