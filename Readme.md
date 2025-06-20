@@ -40,15 +40,7 @@ A responsive, animated landing page built using **React + Tailwind CSS + GSAP**,
 
 ## 📂 Folder Structure
 
-skincare-landing-page/
-├── public/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ └── styles/
-├── package.json
-├── tailwind.config.js
-└── README.md
+<pre> ```bash skincare-landing-page/ ├── public/ ├── src/ │ ├── components/ │ ├── pages/ │ └── styles/ ├── package.json ├── tailwind.config.js └── README.md ``` </pre>
 
 
 ---
