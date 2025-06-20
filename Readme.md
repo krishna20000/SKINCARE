@@ -35,8 +35,8 @@ A responsive, animated landing page built using **React + Tailwind CSS + GSAP**,
 
 ## 🚀 Deployment
 
-- **Live URL**: [[https://your-deployment-url.vercel.app](https://skincare-beta.vercel.app/)]
-- **GitHub Repo**: [https://github.com/your-username/skincare-landing-page](https://github.com/your-username/skincare-landing-page)
+- **Live URL**: [[https://skincare-beta.vercel.app/](https://skincare-beta.vercel.app/)]
+- **GitHub Repo**: [https://github.com/krishna20000/SKINCARE]([https://github.com/krishna20000/SKINCARE])
 
 ## 📂 Folder Structure
 
